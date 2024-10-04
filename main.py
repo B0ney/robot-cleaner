@@ -287,7 +287,7 @@ BLACK = (0, 0, 0)
 SIMULATION_FPS = 5
 WINDOW_SIZE = (480, 640)
 WINDOW_FPS = 60
-WINDOW_TITLE = "Smart Vacuum simulation"
+WINDOW_TITLE = "Smart Vacuum Simulation"
 
 
 def gui(world: World, agent: RobotCleaner, simulation_speed: int = SIMULATION_FPS):
